@@ -1,6 +1,7 @@
 overwrite: true
+# o codegen vai ler a API e gerar funções prontas para consumir a API
 
-schema: 'https://api-sa-east-1.graphcms.com/v2/cl30k3ynw0ok301xm6n5k5xqr/master'
+schema: 'https://api-us-east-1.graphcms.com/v2/ckznjebnw0duj01yy3iy0e44x/master'
 
 documents: './src/graphql/**/*.graphql'
 
